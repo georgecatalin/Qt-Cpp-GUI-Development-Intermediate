@@ -18,3 +18,5 @@ https://www.udemy.com/course/qt-c-gui-development-intermediate/
 * Building read only and editable tree models from scratch
 * Supporting multiple languages in your Qt C++ GUI applications
 * Deploying your Qt applications on Windows, Mac and Linux 
+
+![Qt Logo](/qt-logo.png)
