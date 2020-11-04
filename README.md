@@ -5,7 +5,7 @@ https://www.udemy.com/course/qt-c-gui-development-intermediate/
 
 ## Summary
 
-* Event Programming in Qt
+* Event Programming in Qt [done]
 * Building Custom Widgets
 * Painting and Drawing with Qt
 * Drag and Drop in Qt Widgets
