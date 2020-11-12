@@ -5,7 +5,7 @@ https://www.udemy.com/course/qt-c-gui-development-intermediate/
 
 ## Summary
 
-* Event Programming in Qt [done]
+* <span style="background-color: #FFFF00">Event Programming in Qt [done] </span>
 * Building Custom Widgets [done]
 * Painting and Drawing with Qt [done]
 * Drag and Drop in Qt Widgets
