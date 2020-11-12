@@ -7,7 +7,7 @@ https://www.udemy.com/course/qt-c-gui-development-intermediate/
 
 * Event Programming in Qt [done]
 * Building Custom Widgets [done]
-* Painting and Drawing with Qt
+* Painting and Drawing with Qt [done]
 * Drag and Drop in Qt Widgets
 * Advanced Features in Qt Model View Programming
 * Graphics View Framework
@@ -17,6 +17,6 @@ https://www.udemy.com/course/qt-c-gui-development-intermediate/
 * Undo Redo
 * Building read only and editable tree models from scratch
 * Supporting multiple languages in your Qt C++ GUI applications
-* Deploying your Qt applications on Windows, Mac and Linux 
+* Deploying your Qt applications on Windows, Mac and Linux [done] 
 
 ![Qt Logo](/qt-logo.png)
